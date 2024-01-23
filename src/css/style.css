@@ -1,0 +1,138 @@
+
+
+
+.page{
+    font-family: "Libre Baskerville", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+   width: auto;
+   margin: 0;
+   padding: 0;
+   
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    
+    background:url(../img/bg_women.png) center/cover no-repeat;
+    height: 776px;
+    
+   
+   
+  }
+
+  .header__logo{
+width: 110px;
+height: 26px;
+padding: 16px 0 0 64px;
+cursor: pointer;
+
+  }
+
+  .header__links{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    
+  }
+
+
+.header__link{
+
+text-decoration: none;
+color: #FFF;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 123.077% */
+padding: 26px 51px 0 0;
+}
+
+.header__link:last-child{
+    padding-right: 80px;
+}
+
+.header_text{
+    margin: 146px 0 0 64px;
+    max-width:535px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header_titile{
+margin: 0;
+margin-bottom: 29px;
+padding: 0;    
+color: #FFF;
+font-size: 38px;
+font-style: normal;
+font-weight: 400;
+line-height: 44px; /* 115.789% */
+letter-spacing: 1.2px;
+}
+
+.header_subtitile{
+margin: 0;
+padding: 0;       
+color: #FFF;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+margin-bottom: 29px;;
+}
+
+.header__btn{
+width: 208px;
+height: 54px;
+border-radius: 80px;
+border: 1px solid rgba(255, 255, 255, 0.30);
+background-color:unset;
+cursor: pointer;
+
+}
+
+.header__btn_text{
+color: #FFF;
+text-align: center;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 153.846% */
+letter-spacing: 0.02px;
+}
+
+.trusted{
+  color:#FFF;
+  margin:122px 0 0 64px;
+  
+  
+}
+
+.trusted_sub{
+  display: flex;
+margin: 0 ;
+padding: 0;
+list-style-type: none;
+}
+
+.trusted_item{
+  padding-top: 17px;
+  width: 165px;
+  margin-right: 32px;
+  border-top: #FFF solid;
+  margin-bottom: 40px;
+}
+
+.trusted_item:last-child{
+  margin-right: 0px;
+}
+
+кря
